@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { 
   FileUp, X, CheckCircle2, Download, Zap, 
   ImageIcon, Loader2, Sun, Moon,
