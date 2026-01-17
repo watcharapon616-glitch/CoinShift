@@ -5,3 +5,4 @@ export default defineConfig({
   plugins: [react()],
   base: '/', // <--- เปลี่ยนจาก '/PicShift/' เป็น '/' เพื่อให้รองรับ Custom Domain
 })
+
