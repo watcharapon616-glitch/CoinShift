@@ -1,7 +1,6 @@
 import { useState, useEffect, useCallback } from 'react';
-import { 
-  X, Zap, Sun, Moon, ChevronRight, Globe, 
-  RefreshCcw, ArrowRightLeft, TrendingUp, History, 
+import {  Sun, Moon, ChevronRight, Globe, 
+  RefreshCcw, ArrowRightLeft, TrendingUp,
   Coins, DollarSign, Search, ShieldAlert
 } from 'lucide-react';
 
